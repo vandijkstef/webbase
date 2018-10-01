@@ -6,7 +6,7 @@ description: >-
 
 # Research for Data
 
-Dit document beschrijft de research case voor het vak _Research for Data_. Het toegewezen thema is **opvoeding**. Deze pagina bevat het proces en samenvatting van de research case, waar de belangrijkste punten uitgelicht worden. De volledige gegevens zijn opgenomen in de overige pagina's. Bronnen zijn aangeduid middels **"**\[  \]**"** en terug te vinden in de [Zoekhistorie](https://vandijkstef.gitbook.io/rfd/~/edit/drafts/-LNhLZrClZU0rvSRNpyd/zoekhistorie).
+Dit document beschrijft de research case voor het vak _Research for Data_. Het toegewezen thema is **opvoeding**. Deze pagina bevat het proces en samenvatting van de research case, waar de belangrijkste punten uitgelicht worden. De volledige gegevens zijn opgenomen in de overige pagina's. Bronnen zijn aangeduid middels **"**\[  \]**"** en terug te vinden in de [Zoekhistorie](https://vandijkstef.gitbook.io/rfd/~/edit/drafts/-LNhLZrClZU0rvSRNpyd/zoekhistorie). Alle bronnen zijn opgeslagen en terug te vinden in [https://drive.google.com/open?id=13iFdsiooQKUIvUN3lfU\_EG4MZ97iydsI](https://drive.google.com/open?id=13iFdsiooQKUIvUN3lfU_EG4MZ97iydsI)
 
 ## Vooronderzoek
 
