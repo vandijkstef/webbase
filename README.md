@@ -6,7 +6,7 @@ description: >-
 
 # Research for Data
 
-Dit document beschrijft de research case voor het vak _Research for Data_. Het toegewezen thema is **opvoeding**. Deze pagina bevat het proces en samenvatting van de research case, waar de belangrijkste punten uitgelicht worden. De volledige gegevens zijn opgenomen in de overige pagina's. Bronnen zijn aangeduid middels **"**\[  \]**"** en terug te vinden in de [Zoekhistorie](https://vandijkstef.gitbook.io/rfd/~/edit/drafts/-LNhLZrClZU0rvSRNpyd/zoekhistorie). Alle bronnen zijn opgeslagen en terug te vinden in [https://drive.google.com/open?id=13iFdsiooQKUIvUN3lfU\_EG4MZ97iydsI](https://drive.google.com/open?id=13iFdsiooQKUIvUN3lfU_EG4MZ97iydsI)
+Dit document beschrijft de research case voor het vak _Research for Data_. Het toegewezen thema is **opvoeding**. Deze pagina bevat het proces en samenvatting van de research case, waar de belangrijkste punten uitgelicht worden. De volledige gegevens zijn opgenomen in de overige pagina's. Bronnen zijn aangeduid middels **"**\[  \]**"** en terug te vinden in de [Zoekhistorie](https://vandijkstef.gitbook.io/rfd/zoekhistorie). Alle bronnen zijn opgeslagen en terug te vinden in [Google Drive](https://drive.google.com/open?id=13iFdsiooQKUIvUN3lfU_EG4MZ97iydsI)
 
 ## Vooronderzoek
 
@@ -14,7 +14,7 @@ Dit document beschrijft de research case voor het vak _Research for Data_. Het t
 
 Met het thema opvoeding heb ik eerst een klein vooronderzoek gedaan om subthema's te bepalen. Via heropvoeding ben ik uitgekomen op **criminaliteit**. Deze wil ik afzetten tegen **opvoedingsstijlen**. 
 
-Zie pagina: [Mind Map](https://vandijkstef.gitbook.io/rfd/~/edit/drafts/-LNFPHJzJmFigdxz0IK7/mind-map)
+Zie pagina: [Mind Map](https://vandijkstef.gitbook.io/rfd/mind-map)
 
 Om tot een betere research te komen heb ik een klein vooronderzoek gedaan naar de twee subthema's.
 
@@ -44,21 +44,15 @@ Binnen de opvoedingsstijlen kan er dus gezocht worden tussen zowel de verschille
 
 #### Criminaliteit
 
-Allereerst heb ik de algemene criminaliteitscijfers bekeken op CBS.nl, echter waren deze getallen te algemeen, en op geen enkele wijze te koppelen aan de jeugd specifiek. De _Monitor Jeugdcriminaliteit_ gaf wél een duidelijk beeld van de criminaliteit onder de jeugd \(12-23 jaar\). Er is namelijk sinds 2007 een sterke daling te zien:
-
-![\[Monitor Jeugdcriminaliteit 2017\]](.gitbook/assets/afname_jeugdcrimi.PNG)
-
-Deze daling is echter niet exclusief voor de jeugd, over de gehele bevolking genomen is de criminaliteit met ca. 50% afgenomen. Deze Research Case gaat echter voornamelijk uit van de opvoedende ouders.
-
-![\[CBS.nl Criminaliteit Achtergrond\]](.gitbook/assets/geregistreerde-verdachten-van-misdrijven-naar-achtergrond-16-11-21.png)
+Allereerst heb ik de algemene criminaliteitscijfers bekeken op CBS.nl om een globaal beeld te krijgen van 
 
 ## Opzet
 
 ### Onderzoeksvraag
 
-Met welke opvoedingsstijl geef je je kind de meeste kans op een succesvolle, niet criminele toekomst.
+Met welke opvoedingsstijl geef je je kind, in Nederland, de meeste kans op een succesvolle, niet criminele toekomst.
 
-Bekijk alle stappen in de onderzoeksvraag hier: [Onderzoeksvragen](https://vandijkstef.gitbook.io/rfd/~/edit/drafts/-LNFPHJzJmFigdxz0IK7/onderzoeksvragen)
+Bekijk alle stappen in de onderzoeksvraag hier: [Onderzoeksvragen](https://vandijkstef.gitbook.io/rfd/onderzoeksvragen)
 
 ### Hypothese
 
@@ -71,6 +65,14 @@ H0: De vrijheid van de opvoeding heeft geen invloed op de kans een criminele toe
 
 ## Proces Research
 
+### Criminaliteit
+, echter waren deze getallen te algemeen, en op geen enkele wijze te koppelen aan de jeugd specifiek. De _Monitor Jeugdcriminaliteit_ gaf wél een duidelijk beeld van de criminaliteit onder de jeugd \(12-23 jaar\). Er is namelijk sinds 2007 een sterke daling te zien:
+
+![\[Monitor Jeugdcriminaliteit 2017\]](.gitbook/assets/afname_jeugdcrimi.PNG)
+
+Deze daling is echter niet exclusief voor de jeugd, over de gehele bevolking genomen is de criminaliteit met ca. 50% afgenomen. Deze Research Case gaat echter voornamelijk uit van de opvoedende ouders.
+
+![\[CBS.nl Criminaliteit Achtergrond\]](.gitbook/assets/geregistreerde-verdachten-van-misdrijven-naar-achtergrond-16-11-21.png)
 
 
 ## Samenvatting/Conclusie/Aanbevelingen

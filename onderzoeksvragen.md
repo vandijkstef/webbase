@@ -18,4 +18,4 @@ description: >-
 * In hoeverre heeft de opvoedingsstijl, naast welvaart en woonplaats, invloed op een succesvolle of criminele toekomst?
 * Met welke opvoedingsstijl geef je je kind de meeste kans op een succesvolle, niet criminele toekomst, en in hoeverre is dit afhaneklijk van eigen inkomen of woonplaats?
 * Met welke opvoedingsstijl geef je je kind de meeste kans op een succesvolle, niet criminele toekomst?
-
+* Met welke opvoedingsstijl geef je je kind, in Nederland, de meeste kans op een succesvolle, niet criminele toekomst.
