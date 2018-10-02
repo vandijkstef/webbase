@@ -2,7 +2,7 @@
 description: >-
   Deze pagina bevat alle opgestelde onderzoeksvragen. De daadwerkelijk gebruikte
   onderzoeksvragen zijn opgenomen in de
-  [samenvatting](https://vandijkstef.gitbook.io/rfd/)
+  [samenvatting](README.md)
 ---
 
 # Onderzoeksvragen

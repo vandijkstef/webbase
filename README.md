@@ -6,7 +6,7 @@ description: >-
 
 # Research for Data
 
-Dit document beschrijft de research case voor het vak _Research for Data_. Het toegewezen thema is **opvoeding**. Deze pagina bevat het proces en samenvatting van de research case, waar de belangrijkste punten uitgelicht worden. De volledige gegevens zijn opgenomen in de overige pagina's. Bronnen zijn aangeduid middels **"**\[  \]**"** en terug te vinden in de [Zoekhistorie](https://vandijkstef.gitbook.io/rfd/zoekhistorie). Alle bronnen zijn opgeslagen en terug te vinden in [Google Drive](https://drive.google.com/open?id=13iFdsiooQKUIvUN3lfU_EG4MZ97iydsI)
+Dit document beschrijft de research case voor het vak _Research for Data_. Het toegewezen thema is **opvoeding**. Deze pagina bevat het proces en samenvatting van de research case, waar de belangrijkste punten uitgelicht worden. De volledige gegevens zijn opgenomen in de overige pagina's. Bronnen zijn aangeduid middels **"**\[  \]**"** en terug te vinden in de [Zoekhistorie](zoekhistorie.md). Alle bronnen zijn opgeslagen en terug te vinden in [Google Drive](https://drive.google.com/open?id=13iFdsiooQKUIvUN3lfU_EG4MZ97iydsI). Analyse van de aanbevolen bronnen is terug te vinden in de [Bronnenlijst](bronnenlijst.md)
 
 ## Vooronderzoek
 
@@ -14,7 +14,7 @@ Dit document beschrijft de research case voor het vak _Research for Data_. Het t
 
 Met het thema opvoeding heb ik eerst een klein vooronderzoek gedaan om subthema's te bepalen. Via heropvoeding ben ik uitgekomen op **criminaliteit**. Deze wil ik afzetten tegen **opvoedingsstijlen**. 
 
-Zie pagina: [Mind Map](https://vandijkstef.gitbook.io/rfd/mind-map)
+Zie pagina: [Mind Map](mind-map.md)
 
 Om tot een betere research te komen heb ik een klein vooronderzoek gedaan naar de twee subthema's.
 
@@ -52,15 +52,12 @@ Allereerst heb ik de algemene criminaliteitscijfers bekeken op CBS.nl om een glo
 
 Met welke opvoedingsstijl geef je je kind, in Nederland, de meeste kans op een succesvolle, niet criminele toekomst.
 
-Bekijk alle stappen in de onderzoeksvraag hier: [Onderzoeksvragen](https://vandijkstef.gitbook.io/rfd/onderzoeksvragen)
+Bekijk alle stappen in de onderzoeksvraag hier: [Onderzoeksvragen](onderzoeksvragen.md)
 
 ### Hypothese
 
 H1: Een vrije opvoeding zorgt voor een grotere kans op een criminele toekomst ten opzichte van een strenge opvoeding  
 H0: De vrijheid van de opvoeding heeft geen invloed op de kans een criminele toekomst te hebben
-
-### Zoekwoordenlijst
-
 
 
 ## Proces Research
