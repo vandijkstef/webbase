@@ -58,11 +58,13 @@ Als we het over de opvoeding van een kind hebben, bestaan er grofweg 4 opvoeding
 
 Allereerst de cijfers jeugdcriminaliteit. De _Monitor Jeugdcriminaliteit_ geeft een duidelijk beeld van de criminaliteit onder de jeugd \(12-23 jaar\). Er is namelijk sinds 2007 een sterke daling te zien:
 
-![\[Monitor Jeugdcriminaliteit 2017\]](.gitbook/assets/afname_jeugdcrimi.PNG)
+![\[Monitor Jeugdcriminaliteit 2017\]](.gitbook/assets/afname_jeugdcrimi.PNG)  
+[CBS.nl]
 
 Deze daling is echter niet exclusief voor de jeugd, over de gehele bevolking genomen is de criminaliteit met ca. 50% afgenomen.
 
-![\[CBS.nl Criminaliteit Achtergrond\]](.gitbook/assets/geregistreerde-verdachten-van-misdrijven-naar-achtergrond-16-11-21.png)
+![\[CBS.nl Criminaliteit Achtergrond\]](.gitbook/assets/geregistreerde-verdachten-van-misdrijven-naar-achtergrond-16-11-21.png)  
+[CBS.nl]
 
 ### Opvoeding Geschiedenis
 > Deelvraag: Wat is de trend in opvoeding in de afgelopen 10-20 jaar geweest?
@@ -87,11 +89,9 @@ Er is veel onderzoek gedaan naar vrije en/of strenge opvoeding en het risico op 
 - "Op de lange termijn worden kinderen juist agressiever en minder gehoorzaam van billenkoek. Een kind een draai om de oren geven om het te straffen voor agressief gedrag, werkt al helemaal averechts."
 - "Erasmus MC [..] Generation R [..] Wederom was daar de uitkomst: streng opvoeden vergroot juist het risico op gedragsproblemen."
 
-
-
-
-## Samenvatting/Conclusie/Aanbevelingen
-
+## Samenvatting
+In de afgelopen 10 jaar is de criminaliteit flink gedaald. We zijn echter al veel langer steeds vrijer aan het opvoeden, dus deze daling is hier waarschijnlijk niet of nauwelijks aan gerelateerd.  
+Door de verschillende onderzoeken/bronnen over zowel een vrije als strenge opvoeding tegen elkaar uit te zetten kan er alsnog een voorzichtige conclusie getrokken worden. 
 
 
 
