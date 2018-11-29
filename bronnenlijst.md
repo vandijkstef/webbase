@@ -1,8 +1,6 @@
 # Bronnenlijst
 Hier volgt een analyse van de aanbevolen bronnen.
 
-TODO: DO
-
 | Monitor Jeugdcriminaliteit ||
 |-|-|
 | Auteur          | A.M. van der Laan & M.G.C.J. Beerthuizen |
@@ -38,3 +36,88 @@ TODO: DO
 | Bruikbaarheid   | De citaten uit de onderzoeken zijn goed bruikbaar als argument tegen een strenge opvoeding. De onderzoeken zelf ook |
 | Validiteit      | Alleen Generation R gaat over Nederland, Rotterdam |
 | Opmerkingen     |  |
+
+| Opvoedinsstijl: Wikipedia ||
+|-|-|
+| Auteur          | |
+| In opdracht van | |
+| Publicatiedatum | |
+| Type            | |
+| Bestand         | |
+| Betrouwbaarheid | |
+| Bruikbaarheid   | |
+| Validiteit      | |
+| Opmerkingen     | |
+
+| Opvoedinsstijl: Mens en Samenleving ||
+|-|-|
+| Auteur          | |
+| In opdracht van | |
+| Publicatiedatum | |
+| Type            | |
+| Bestand         | |
+| Betrouwbaarheid | |
+| Bruikbaarheid   | |
+| Validiteit      | |
+| Opmerkingen     | |
+
+| Verdwijnen van ouderlijk gezag op kind heeft keerzijde ||
+|-|-|
+| Auteur          | |
+| In opdracht van | |
+| Publicatiedatum | |
+| Type            | |
+| Bestand         | |
+| Betrouwbaarheid | |
+| Bruikbaarheid   | |
+| Validiteit      | |
+| Opmerkingen     | |
+
+
+| Kinderen moeten minder beschermd worden opgevoed ||
+|-|-|
+| Auteur          | |
+| In opdracht van | |
+| Publicatiedatum | |
+| Type            | |
+| Bestand         | |
+| Betrouwbaarheid | |
+| Bruikbaarheid   | |
+| Validiteit      | |
+| Opmerkingen     | |
+
+| CBS.nl Criminaliteit Achtergrond ||
+|-|-|
+| Auteur          | |
+| In opdracht van | |
+| Publicatiedatum | |
+| Type            | |
+| Bestand         | |
+| Betrouwbaarheid | |
+| Bruikbaarheid   | |
+| Validiteit      | |
+| Opmerkingen     | |
+
+| Als we onze kinderen opvoeden, gebruiken we verschillende opvoedstijlen ||
+|-|-|
+| Auteur          | |
+| In opdracht van | |
+| Publicatiedatum | |
+| Type            | |
+| Bestand         | |
+| Betrouwbaarheid | |
+| Bruikbaarheid   | |
+| Validiteit      | |
+| Opmerkingen     | |
+
+| Opvoedmythes: strenge opvoeding of te vrij? ||
+|-|-|
+| Auteur          | |
+| In opdracht van | |
+| Publicatiedatum | |
+| Type            | |
+| Bestand         | |
+| Betrouwbaarheid | |
+| Bruikbaarheid   | |
+| Validiteit      | |
+| Opmerkingen     | |
