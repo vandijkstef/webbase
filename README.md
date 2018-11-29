@@ -24,11 +24,11 @@ Bekijk alle stappen in de onderzoeksvraag hier: [Onderzoeksvragen](onderzoeksvra
 
 ### Hypothese
 
-H1: Een vrije opvoeding zorgt voor een grotere kans op een criminele toekomst ten opzichte van een strenge opvoeding  
-H0: De vrijheid van de opvoeding heeft geen invloed op de kans een criminele toekomst te hebben
+H1: Een vrije opvoeding zorgt voor een grotere kans op een criminele toekomst.
+H0: Een vrije opvoeding zorgt niet voor een grotere kans op een criminele toekomst.
 
 ## Proces Research
-De volgende hoofdstukken bevatten het onderzoek per stap.
+De volgende hoofdstukken bevatten het onderzoek per stap. Eerst wordt opvoeding onderzocht. Vervolgens wordt criminaliteit en jongeren uitgelicht. Hierna worden er verbanden gezocht tussen deze onderwerpen. Hieruit volgt een voorzichtige conclusie.
 
 ### Opvoedingsstijlen
 > Deelvraag: Wat zijn de verschillende opvoedinsstijlen
@@ -53,7 +53,26 @@ Als we het over de opvoeding van een kind hebben, bestaan er grofweg 4 opvoeding
 
 \[Opvoedinsstijl: Mens en Samenleving\]
 
-### Criminaliteit
+> Deelvraag: Wat is de trend in opvoeding in de afgelopen 10-20 jaar geweest?
+
+De bron [Verdwijnen van ouderlijk gezag op kind heeft keerzijde] bevat het volgende citaat:
+> "Wat wel nieuw is, is dat de ouders hun kinderen in het afgelopen kwart eeuw steeds vrijer zijn gaan opvoeden. Een trend die is versterkt door internet."
+
+TODO: Nog 1-2 referenties die vrij ondersteunen
+TODO: 1-2 referenties die streng ondersteunen
+TODO: Conslusie deelvraag
+
+> Deelvraag: Wat is de 'scope' van een 'vrije opvoeding' in deze research case?
+
+Niet elke bron maakt gebruik van dezelfde beschrijving voor opvoedingsstijlen. Om te bepalen of een bron het over een vrije opvoeding heeft binnen deze research case, zijn de volgende regels gesteld, in volgorde van relevantie: 
+
+* Er wordt direct verwezen naar Permissief of Laissez-faire.
+* Indien het onderzoek zich direct op gedrag heeft gefocused:
+	* Hebben kinderen de keuze zelf mogen maken?
+	* In hoeverre hebben ouders/verzorgers hier sturing in gehad?
+* Er wordt slechts een tweedeling gemaakt tussen vrij of streng
+
+### Criminaliteit & Jongeren
 > Deelvraag: Zijn er interessante statistieken over (jeugd)criminaliteit?
 
 Allereerst de cijfers jeugdcriminaliteit. De _Monitor Jeugdcriminaliteit_ geeft een duidelijk beeld van de criminaliteit onder de jeugd \(12-23 jaar\). Er is namelijk sinds 2007 een sterke daling te zien:
@@ -66,16 +85,14 @@ Deze daling is echter niet exclusief voor de jeugd, over de gehele bevolking gen
 ![\[CBS.nl Criminaliteit Achtergrond\]](.gitbook/assets/geregistreerde-verdachten-van-misdrijven-naar-achtergrond-16-11-21.png)  
 [CBS.nl]
 
-### Opvoeding Geschiedenis
-> Deelvraag: Wat is de trend in opvoeding in de afgelopen 10-20 jaar geweest?
+> Deelvraag: Wat is de 'scope' van criminaliteit in deze research case?
 
-De bron [Verdwijnen van ouderlijk gezag op kind heeft keerzijde] bevat het volgende citaat:
-> "Wat wel nieuw is, is dat de ouders hun kinderen in het afgelopen kwart eeuw steeds vrijer zijn gaan opvoeden. Een trend die is versterkt door internet."
+De criminaliteit binnen deze research case staat gelijk aan het bekende 'in aanraking komen met politie/justitie'. Er wordt dus niet direct onderscheid gemaakt tussen een lichte vergrijpen en zware criminaliteit. Dit omdat aangenomen wordt dat de cijfers van beide categorieën met elkaar in verband staan.
 
 ### Opvoeding en Criminaliteit
 > Deelvraag: In hoeverre zorgt een vrije of strenge opvoeding voor probleemgedrag en/of criminaliteit?
 
-Er is veel onderzoek gedaan naar vrije en/of strenge opvoeding en het risico op probleemgedrag en/of crimineel gedrag. Een aantal interessante bronnen:
+Er is veel onderzoek gedaan naar vrije en/of strenge opvoeding en het risico op probleemgedrag en/of crimineel gedrag. Een aantal interessante bronnen en citaten:
 
 #### [Vrije opvoeding leidt niet tot vrije mensen] 
 > Tegen vrije opvoeding - Geen link met crime
@@ -89,9 +106,12 @@ Er is veel onderzoek gedaan naar vrije en/of strenge opvoeding en het risico op 
 - "Op de lange termijn worden kinderen juist agressiever en minder gehoorzaam van billenkoek. Een kind een draai om de oren geven om het te straffen voor agressief gedrag, werkt al helemaal averechts."
 - "Erasmus MC [..] Generation R [..] Wederom was daar de uitkomst: streng opvoeden vergroot juist het risico op gedragsproblemen."
 
+TODO: 1-2 extra tegen streng
+TODO: Voorzichtige conslusie deelvraag
+
 ## Samenvatting
 In de afgelopen 10 jaar is de criminaliteit flink gedaald. We zijn echter al veel langer steeds vrijer aan het opvoeden, dus deze daling is hier waarschijnlijk niet of nauwelijks aan gerelateerd.  
-Door de verschillende onderzoeken/bronnen over zowel een vrije als strenge opvoeding tegen elkaar uit te zetten kan er alsnog een voorzichtige conclusie getrokken worden. 
+De bronnen en citaten aangehaald in **Opvoeding en Criminaliteit** vormen de basis voor deze conclusie.
 
 
 

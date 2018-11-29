@@ -15,6 +15,7 @@ description: >-
 * Is er een verhouding tussen opvoedingsstijl en gescheiden ouders?
 * Is er een verhouding tussen opvoedingsstijl en criminaliteit/gevangenis?
 * Is er een verhouding tussen woonplaats en criminaliteit?
+* Zorgt een vrije opvoeding voor een grotere kans op een criminele toekomst?
 * In hoeverre heeft de opvoedingsstijl, naast welvaart en woonplaats, invloed op een succesvolle of criminele toekomst?
 * Met welke opvoedingsstijl geef je je kind de meeste kans op een succesvolle, niet criminele toekomst, en in hoeverre is dit afhaneklijk van eigen inkomen of woonplaats?
 * Met welke opvoedingsstijl geef je je kind de meeste kans op een succesvolle, niet criminele toekomst?
