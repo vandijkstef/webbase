@@ -5,4 +5,3 @@
 * [Onderzoeksvragen](onderzoeksvragen.md)
 * [Bronnenlijst](bronnenlijst.md)
 * [Zoekhistorie](zoekhistorie.md)
-* [Notities Herkansing](notes-aanvulling.md)
