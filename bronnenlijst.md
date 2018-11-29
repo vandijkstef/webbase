@@ -1,5 +1,5 @@
 # Bronnenlijst
-Hier volgt een analyse van de aanbevolen bronnen.
+Hier volgt een analyse van de aanbevolen bronnen. Betrouwbaarheid, bruikbaarheid en validiteit zijn als volgt ingedeeld: Slecht, Matig, OK, Goed, Prima
 
 | Monitor Jeugdcriminaliteit ||
 |-|-|
@@ -8,8 +8,8 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Publicatiedatum | 30-11-2017 |
 | Type            | PDF |
 | Bestand         | Monitor+Jeugdcriminaliteit+2017.pdf |
-| Betrouwbaarheid | Zeer Betrouwbaar: CBS is een wettelijk vastgelegde onafhankelijke partij die het mogelijk maakt dat debatten gevoerd kunnen worden op basis van betrouwbare informatie |
-| Bruikbaarheid   | Goed, Geeft een aantal mogelijke verklaringen voor de afname van jeugdcriminaliteit op pag 7 |
+| Betrouwbaarheid | Prima: CBS is een wettelijk vastgelegde onafhankelijke partij die het mogelijk maakt dat debatten gevoerd kunnen worden op basis van betrouwbare informatie |
+| Bruikbaarheid   | Goed: Geeft een aantal mogelijke verklaringen voor de afname van jeugdcriminaliteit op pag 7 |
 | Validiteit      | Matig: De bron gaat niet in op bepaalde opvoedingsstijlen maar laat wel duidelijk een afname zien in criminaliteit |
 
 | Vrije opvoeding leidt niet tot vrije mensen ||
@@ -19,8 +19,8 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Publicatiedatum | 15-03-2002 |
 | Type            | Artikel |
 | Bestand         | 'Vrije opvoeding leidt niet tot vrije mensen' _ TROUW[vrije opvoeding criminaliteit].html |
-| Betrouwbaarheid | Deels, auteur is liefhebber van Duitsland maar licht wel de kritiek op de huidige vrije opvoeding in Duitsland ui. Citeert voornamelijk 1 persoon |
-| Bruikbaarheid   | Hoewel niet overtuigend, kan dit gebruikt worden als argument tegen een vrije opvoeding. |
+| Betrouwbaarheid | OK: auteur is liefhebber van Duitsland maar licht wel de kritiek op de huidige vrije opvoeding in Duitsland ui. Citeert voornamelijk 1 persoon |
+| Bruikbaarheid   | OK: Hoewel niet overtuigend, kan dit gebruikt worden als argument tegen een vrije opvoeding. |
 | Validiteit      | Matig: Gaat over Duitsland, niet over Nederland |
 
 | Leidt streng opvoeden tot voorbeeldige kinderen? ||
@@ -30,8 +30,8 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Publicatiedatum | 6-6-2015 |
 | Type            | Artikel |
 | Bestand         | Leidt streng opvoeden tot voorbeeldige kinderen_ _ De Volkskrant.html |
-| Betrouwbaarheid | Ok, citeert uit verschillende grote onderzoeken |
-| Bruikbaarheid   | De citaten uit de onderzoeken zijn goed bruikbaar als argument tegen een strenge opvoeding. De onderzoeken zelf ook |
+| Betrouwbaarheid | OK citeert uit verschillende grote onderzoeken |
+| Bruikbaarheid   | Goed: De citaten uit de onderzoeken zijn goed bruikbaar als argument tegen een strenge opvoeding. De onderzoeken zelf ook |
 | Validiteit      | Goed: Het aangehaalde onderzoek van het project Generation R beperkt zich wel tot Rotterdam, maar is zeer uitgebreid. |
 
 | Opvoedinsstijl: Wikipedia ||
@@ -41,8 +41,8 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Publicatiedatum | - |
 | Type            | Artikel |
 | Bestand         | Opvoedingsstijl - Wikipedia.html |
-| Betrouwbaarheid | Ok, simpele samenvatting, termen komen terug in andere bronnen |
-| Bruikbaarheid   | Goed als basisinzicht in opvoedingsstijlen |
+| Betrouwbaarheid | Ok: simpele samenvatting, termen komen terug in andere bronnen |
+| Bruikbaarheid   | Goed: als basisinzicht in opvoedingsstijlen |
 | Validiteit      | - |
 
 | Opvoedinsstijl: Mens en Samenleving ||
@@ -52,8 +52,8 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Publicatiedatum | 17-07-2014 |
 | Type            | Artikel |
 | Bestand         | Verschillende opvoedingsstijlen _ Mens en Samenleving_ Ouder en gezin.html |
-| Betrouwbaarheid | Ok, samenvatting over opvoedingsstijlen, er zijn vele bronnen die gelijkwaardige tekst bevatten |
-| Bruikbaarheid   | Goed als basisinzicht in opvoedingsstijlen |
+| Betrouwbaarheid | Ok: samenvatting over opvoedingsstijlen, er zijn vele bronnen die gelijkwaardige tekst bevatten |
+| Bruikbaarheid   | Goed: als basisinzicht in opvoedingsstijlen |
 | Validiteit      | Goed: Infonu lijkt een algemene informatieve website te zijn. Er is geen reden tot twijfel, bevat echter ook geen conclusies |
 
 | Verdwijnen van ouderlijk gezag op kind heeft keerzijde ||
