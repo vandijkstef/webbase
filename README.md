@@ -90,12 +90,19 @@ Niet elke bron heeft het over criminaliteit of beschrijft dit in hetzelfde detai
 Er is veel onderzoek gedaan naar vrije en/of strenge opvoeding en het risico op probleemgedrag en/of crimineel gedrag. Een aantal interessante bronnen en citaten:
 
 #### [Vrije opvoeding leidt niet tot vrije mensen] 
-> Tegen vrije opvoeding - Geen link met crime
+> Voor strenge opvoeding
 
 - "Om kinderen op te voeden tot vrije en verantwoordelijke mensen volstaat het niet om kinderen vrij te laten en het ze allemaal zelf uit te laten zoeken. Integendeel: kinderen hebben sterke ouders nodig."
 - "Opvoeding, of het nu om ouders, leraren of maatschappelijk werkers gaat, moet eropuit zijn karakter te vormen, en dat lukt het beste als de volwassene zelf een voorbeeld is, een pedagogische persoonlijkheid waar de jongere zich aan kan spiegelen, of zich tegen af kan zetten."
 
-TODO: 1-2 extra tegen vrij
+#### [Vrije opvoeding van kinderen]
+> Voor strenge opvoeding
+
+- "De combinatie van mensen zonder grenzen die met elkaar in contact komen, is de reden voor de uitwassen die steeds vaker in het nieuws komen. Dan ontstaan problemen in het kwadraat. Zoals ijzeren staven op spoorrails leggen, stoeptegels van viaducten gooien en gootsteenontsoppersbommen (is een bijtend zuur) in een bus gooien."
+
+#### [Als we onze kinderen opvoeden, gebruiken we verschillende opvoedstijlen.]
+> Voor strenge opvoeding
+- "Laissez Faire [..] Ze kunnen eenzaam, gesloten of zelfs crimineel zijn."
 
 #### [Leidt streng opvoeden tot voorbeeldige kinderen?] 
 > Tegen strenge opvoeding
@@ -103,15 +110,16 @@ TODO: 1-2 extra tegen vrij
 - "Op de lange termijn worden kinderen juist agressiever en minder gehoorzaam van billenkoek. Een kind een draai om de oren geven om het te straffen voor agressief gedrag, werkt al helemaal averechts."
 - "Erasmus MC [..] Generation R [..] Wederom was daar de uitkomst: streng opvoeden vergroot juist het risico op gedragsproblemen."
 
-TODO: 1-2 extra tegen streng
-TODO: Voorzichtige conslusie deelvraag
+#### [Opvoedmythes: strenge opvoeding of te vrij?]
+> Tegen strenge opvoeding
 
-## Samenvatting
-In de afgelopen 10 jaar is de criminaliteit flink gedaald. We zijn echter al veel langer steeds vrijer aan het opvoeden, dus deze daling is hier waarschijnlijk niet of nauwelijks aan gerelateerd.  
-De bronnen en citaten aangehaald in **Opvoeding en Criminaliteit** vormen de basis voor deze conclusie.
+- "Alleen: hoe meer je je kinderen onder jouw controle hebt, hoe minder zij kunnen oefenen in zelfcontrole. [...] we willen juist pubers die niet klakkeloos met de groep meelopen. En volwassenen die weten wat zij met hun eigen leven willen."
+
+## Samenvatting/Conclusie
+In de afgelopen 10 jaar is de criminaliteit zowel onder jongeren maar ook in het algemeen flink gedaald. In de afgelopen 100 jaar is de opvoeding steeds vrijer geworden, echter lijkt deze trend de afgelopen 20 jaar niet of nauwelijks veranderd te zijn. Er is geen correlatie vindbaar tussen deze twee trends. Generation R, een bron met hoge authoriteit is wel duidelijk dat streng opvoeden het risico op gedragsproblemen vergroot. De andere bronnen zijn minder authoritair, en zodoende kan geconcludeerd worden dat een vrije opvoeding tot een succesvollere, niet criminele toekomst leidt.
 
 ## Opmerkingen
-De research case is breed opgezet, er zijn veel andere factoren die van invloed kunnen zijn op een criminele toekomst. Bijvoorbeeld inkomen, woonplaats/land, geloof, ethniciteit, gezinssamenstelling, (toekomstige) opleidingsniveaus. Vele onderzoeken naar deze factoren bekijken de opvoeding niet of nauwelijks of zetten dit vervolgens niet af tegen een indicator voor criminaliteit. Betreffende opvoeding is er vooral gekeken naar vrije keuzes, en minder naar empathie vanuit de ouders.
+De research case is breed opgezet, er zijn veel andere factoren die van invloed kunnen zijn op een criminele toekomst. Bijvoorbeeld inkomen, woonplaats/land, geloof, ethniciteit, gezinssamenstelling, (toekomstige) opleidingsniveaus. Vele onderzoeken naar deze factoren bekijken de opvoeding niet of nauwelijks of zetten dit vervolgens niet af tegen een indicator voor criminaliteit. Betreffende opvoeding is er vooral gekeken naar vrije keuzes, en minder naar empathie vanuit de ouders. Hier zitten waarschijnlijk ook interessante inzichten.
 
 
 
