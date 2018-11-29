@@ -11,7 +11,6 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Betrouwbaarheid | Zeer Betrouwbaar: CBS is een wettelijk vastgelegde onafhankelijke partij die het mogelijk maakt dat debatten gevoerd kunnen worden op basis van betrouwbare informatie |
 | Bruikbaarheid   | Goed, Geeft een aantal mogelijke verklaringen voor de afname van jeugdcriminaliteit op pag 7 |
 | Validiteit      | Matig: De bron gaat niet in op bepaalde opvoedingsstijlen maar laat wel duidelijk een afname zien in criminaliteit |
-| Opmerkingen     |  |
 
 | Vrije opvoeding leidt niet tot vrije mensen ||
 |-|-|
@@ -22,8 +21,7 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Bestand         | 'Vrije opvoeding leidt niet tot vrije mensen' _ TROUW[vrije opvoeding criminaliteit].html |
 | Betrouwbaarheid | Deels, auteur is liefhebber van Duitsland maar licht wel de kritiek op de huidige vrije opvoeding in Duitsland ui. Citeert voornamelijk 1 persoon |
 | Bruikbaarheid   | Hoewel niet overtuigend, kan dit gebruikt worden als argument tegen een vrije opvoeding. |
-| Validiteit      | Indicatief: Gaat over Duitsland, niet over Nederland |
-| Opmerkingen     |  |
+| Validiteit      | Matig: Gaat over Duitsland, niet over Nederland |
 
 | Leidt streng opvoeden tot voorbeeldige kinderen? ||
 |-|-|
@@ -35,7 +33,6 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Betrouwbaarheid | Ok, citeert uit verschillende grote onderzoeken |
 | Bruikbaarheid   | De citaten uit de onderzoeken zijn goed bruikbaar als argument tegen een strenge opvoeding. De onderzoeken zelf ook |
 | Validiteit      | Goed: Het aangehaalde onderzoek van het project Generation R beperkt zich wel tot Rotterdam, maar is zeer uitgebreid. |
-| Opmerkingen     |  |
 
 | Opvoedinsstijl: Wikipedia ||
 |-|-|
@@ -47,7 +44,6 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Betrouwbaarheid | Ok, simpele samenvatting, termen komen terug in andere bronnen |
 | Bruikbaarheid   | Goed als basisinzicht in opvoedingsstijlen |
 | Validiteit      | - |
-| Opmerkingen     | |
 
 | Opvoedinsstijl: Mens en Samenleving ||
 |-|-|
@@ -59,7 +55,6 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Betrouwbaarheid | Ok, samenvatting over opvoedingsstijlen, er zijn vele bronnen die gelijkwaardige tekst bevatten |
 | Bruikbaarheid   | Goed als basisinzicht in opvoedingsstijlen |
 | Validiteit      | Goed: Infonu lijkt een algemene informatieve website te zijn. Er is geen reden tot twijfel, bevat echter ook geen conclusies |
-| Opmerkingen     | |
 
 | Verdwijnen van ouderlijk gezag op kind heeft keerzijde ||
 |-|-|
@@ -68,56 +63,40 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Publicatiedatum | 29-10-2011 |
 | Type            | Artikel |
 | Bestand         | Verdwijnen van ouderlijk gezag op kind heeft keerzijde _ TROUW.html |
-| Betrouwbaarheid | Goed: De passages uit dit artikel komen van Frits Spangenberg |
-| Bruikbaarheid   | |
-| Validiteit      | |
-| Opmerkingen     | |
+| Betrouwbaarheid | Goed: De passages uit dit artikel komen van Frits Spangenberg, onderzoeker bij Motivaction |
+| Bruikbaarheid   | Matig: Geeft leuk citaat over verandering in opvoeding |
+| Validiteit      | Matig: Zegt wel iets over de verandering in de opvoeding, maar linkt die niet direct met criminaliteit |
 
 
 | Kinderen moeten minder beschermd worden opgevoed ||
 |-|-|
-| Auteur          | |
-| In opdracht van | |
-| Publicatiedatum | |
-| Type            | |
-| Bestand         | |
-| Betrouwbaarheid | |
-| Bruikbaarheid   | |
-| Validiteit      | |
-| Opmerkingen     | |
-
-| CBS.nl Criminaliteit Achtergrond ||
-|-|-|
-| Auteur          | |
-| In opdracht van | |
-| Publicatiedatum | |
-| Type            | |
-| Bestand         | |
-| Betrouwbaarheid | |
-| Bruikbaarheid   | |
-| Validiteit      | |
-| Opmerkingen     | |
+| Auteur          | ANP |
+| In opdracht van | Nu.nl en/of VeiligheidNL |
+| Publicatiedatum | 31-3-2017 |
+| Type            | Artikel |
+| Bestand         | Kinderen moeten minder beschermd worden opgevoed' _ NU - Het laatste nieuws het eerst op NU.nl.html |
+| Betrouwbaarheid | OK: VeiligheidNL is een expertisecentrum voor veiligheid en/of veilig opgroeien |
+| Bruikbaarheid   | Matig: Er wordt slechts een statement gedaan |
+| Validiteit      | Matig: Het artikel geeft een duidelijk signaal dat er vrijer opgevoed zou moeten worden, dit wordt echter slechts gekoppeld aan "een goede invloed op de ontwikkeling" |
 
 | Als we onze kinderen opvoeden, gebruiken we verschillende opvoedstijlen ||
 |-|-|
-| Auteur          | |
-| In opdracht van | |
-| Publicatiedatum | |
-| Type            | |
-| Bestand         | |
-| Betrouwbaarheid | |
-| Bruikbaarheid   | |
-| Validiteit      | |
-| Opmerkingen     | |
+| Auteur          | - |
+| In opdracht van | Minerva Counseling |
+| Publicatiedatum | 15-5-2016 |
+| Type            | Artikel |
+| Bestand         | Opvoedstijlen en welke gevolgen hebben ze voor je als volwassene.html |
+| Betrouwbaarheid | Goed: Artikel op website van, en zeer waarschijnlijk geschreven door, een counselor/therepeut. Er worden geen bronnen aangehaald, maar de expertise van de schrijver is aannemelijk. Probeert wel problemen te signaleren om je over te halen op gesprek te komen. |
+| Bruikbaarheid   | Goed: Duidelijke opsomming van opvoedingsstijlen en eventuele gevolgen die iemand kan ervaren. |
+| Validiteit      | Ok: Artikel lijkt betrouwbaar en legt zelfs verband tussen opvoedingsstijl en criminaliteit, echter moet er hier uitgegaan worden van 'persoonlijke ervaringen' van de schrijver |
 
 | Opvoedmythes: strenge opvoeding of te vrij? ||
 |-|-|
-| Auteur          | |
-| In opdracht van | |
-| Publicatiedatum | |
-| Type            | |
-| Bestand         | |
-| Betrouwbaarheid | |
-| Bruikbaarheid   | |
-| Validiteit      | |
-| Opmerkingen     | |
+| Auteur          | Linda Rikkers |
+| In opdracht van | Kroost.org |
+| Publicatiedatum | 6-9-2014 |
+| Type            | Artikel |
+| Bestand         | Opvoedmythes_ strenge opvoeding of te vrij_ - KROOST.html |
+| Betrouwbaarheid | Goed: Linda Rikkers is communicatietrainer en moeder. Kroost lijkt een non-profit organisatie die een vrijere opvoeding ondersteund. Het artikel bevat meerdere bronnen. |
+| Bruikbaarheid   | Goed: Gaat over de opvoeding, hint naar criminaliteit. |
+| Validiteit      | Matig: Er valt een redelijk authoratief citaat uit te halen, maar geeft geen (directe) antwoorden |
