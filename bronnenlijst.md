@@ -10,7 +10,7 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Bestand         | Monitor+Jeugdcriminaliteit+2017.pdf |
 | Betrouwbaarheid | Zeer Betrouwbaar: CBS is een wettelijk vastgelegde onafhankelijke partij die het mogelijk maakt dat debatten gevoerd kunnen worden op basis van betrouwbare informatie |
 | Bruikbaarheid   | Goed, Geeft een aantal mogelijke verklaringen voor de afname van jeugdcriminaliteit op pag 7 |
-| Validiteit      | Deels, de bron gaat niet in op bepaalde opvoedingsstijlen maar laat wel duidelijk een afname zien in criminaliteit |
+| Validiteit      | Matig: De bron gaat niet in op bepaalde opvoedingsstijlen maar laat wel duidelijk een afname zien in criminaliteit |
 | Opmerkingen     |  |
 
 | Vrije opvoeding leidt niet tot vrije mensen ||
@@ -22,7 +22,7 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Bestand         | 'Vrije opvoeding leidt niet tot vrije mensen' _ TROUW[vrije opvoeding criminaliteit].html |
 | Betrouwbaarheid | Deels, auteur is liefhebber van Duitsland maar licht wel de kritiek op de huidige vrije opvoeding in Duitsland ui. Citeert voornamelijk 1 persoon |
 | Bruikbaarheid   | Hoewel niet overtuigend, kan dit gebruikt worden als argument tegen een vrije opvoeding. |
-| Validiteit      | Gaat over Duitsland, niet over Nederland |
+| Validiteit      | Indicatief: Gaat over Duitsland, niet over Nederland |
 | Opmerkingen     |  |
 
 | Leidt streng opvoeden tot voorbeeldige kinderen? ||
@@ -34,41 +34,41 @@ Hier volgt een analyse van de aanbevolen bronnen.
 | Bestand         | Leidt streng opvoeden tot voorbeeldige kinderen_ _ De Volkskrant.html |
 | Betrouwbaarheid | Ok, citeert uit verschillende grote onderzoeken |
 | Bruikbaarheid   | De citaten uit de onderzoeken zijn goed bruikbaar als argument tegen een strenge opvoeding. De onderzoeken zelf ook |
-| Validiteit      | Alleen Generation R gaat over Nederland, Rotterdam |
+| Validiteit      | Goed: Het aangehaalde onderzoek van het project Generation R beperkt zich wel tot Rotterdam, maar is zeer uitgebreid. |
 | Opmerkingen     |  |
 
 | Opvoedinsstijl: Wikipedia ||
 |-|-|
-| Auteur          | |
-| In opdracht van | |
-| Publicatiedatum | |
-| Type            | |
-| Bestand         | |
-| Betrouwbaarheid | |
-| Bruikbaarheid   | |
-| Validiteit      | |
+| Auteur          | Community |
+| In opdracht van | - |
+| Publicatiedatum | - |
+| Type            | Artikel |
+| Bestand         | Opvoedingsstijl - Wikipedia.html |
+| Betrouwbaarheid | Ok, simpele samenvatting, termen komen terug in andere bronnen |
+| Bruikbaarheid   | Goed als basisinzicht in opvoedingsstijlen |
+| Validiteit      | - |
 | Opmerkingen     | |
 
 | Opvoedinsstijl: Mens en Samenleving ||
 |-|-|
-| Auteur          | |
-| In opdracht van | |
-| Publicatiedatum | |
-| Type            | |
-| Bestand         | |
-| Betrouwbaarheid | |
-| Bruikbaarheid   | |
-| Validiteit      | |
+| Auteur          | Onbekend |
+| In opdracht van | Infonu.nl |
+| Publicatiedatum | 17-07-2014 |
+| Type            | Artikel |
+| Bestand         | Verschillende opvoedingsstijlen _ Mens en Samenleving_ Ouder en gezin.html |
+| Betrouwbaarheid | Ok, samenvatting over opvoedingsstijlen, er zijn vele bronnen die gelijkwaardige tekst bevatten |
+| Bruikbaarheid   | Goed als basisinzicht in opvoedingsstijlen |
+| Validiteit      | Goed: Infonu lijkt een algemene informatieve website te zijn. Er is geen reden tot twijfel, bevat echter ook geen conclusies |
 | Opmerkingen     | |
 
 | Verdwijnen van ouderlijk gezag op kind heeft keerzijde ||
 |-|-|
-| Auteur          | |
-| In opdracht van | |
-| Publicatiedatum | |
-| Type            | |
-| Bestand         | |
-| Betrouwbaarheid | |
+| Auteur          | Onbekend |
+| In opdracht van | Trouw / Het boek 'De Grenzeloze Generatie en de eeuwige jeugd van hun opvoeders' |
+| Publicatiedatum | 29-10-2011 |
+| Type            | Artikel |
+| Bestand         | Verdwijnen van ouderlijk gezag op kind heeft keerzijde _ TROUW.html |
+| Betrouwbaarheid | Goed: De passages uit dit artikel komen van Frits Spangenberg |
 | Bruikbaarheid   | |
 | Validiteit      | |
 | Opmerkingen     | |
