@@ -58,19 +58,14 @@ Als we het over de opvoeding van een kind hebben, bestaan er grofweg 4 opvoeding
 De bron [Verdwijnen van ouderlijk gezag op kind heeft keerzijde] bevat het volgende citaat:
 > "Wat wel nieuw is, is dat de ouders hun kinderen in het afgelopen kwart eeuw steeds vrijer zijn gaan opvoeden. Een trend die is versterkt door internet."
 
-TODO: Nog 1-2 referenties die vrij ondersteunen
-TODO: 1-2 referenties die streng ondersteunen
-TODO: Conslusie deelvraag
+In ['Kinderen moeten minder beschermd worden opgevoed']:
+> "VeiligheidNL lanceert daarom vrijdag de campagne Met een beetje risico komen ze er wel om ouders, scholen en de overheid te stimuleren om kinderen in de leeftijd van vijf tot zeven jaar wat meer 'los' te laten."
+
+Er zijn duidelijk signalen dat er vrijer opgevoed wordt, en zelfs gepromoot wordt. VeiligheidNL is geen overheidsinstelling, maar ondersteunt partijen (zo ook de overheid) in creëren van veilig gedrag en omgevingen. Het lijkt er echter niet op dat er in de laatste 20 jaar veel gebeurd is in de vrijheid van opvoeding.
 
 #### Deelvraag: Wat is de 'scope' van een 'vrije opvoeding' in deze research case?
 
-Niet elke bron maakt gebruik van dezelfde beschrijving voor opvoedingsstijlen. Om te bepalen of een bron het over een vrije opvoeding heeft binnen deze research case, zijn de volgende regels gesteld, in volgorde van relevantie: 
-
-* Er wordt direct verwezen naar Permissief of Laissez-faire.
-* Indien het onderzoek zich direct op gedrag heeft gefocused:
-	* Hebben kinderen de keuze zelf mogen maken?
-	* In hoeverre hebben ouders/verzorgers hier sturing in gehad?
-* Er wordt slechts een tweedeling gemaakt tussen vrij of streng
+Niet elke bron maakt gebruik van dezelfde beschrijving voor opvoedingsstijlen. Vrij of streng wordt hier in de breedste vorm gebruikt.
 
 ### Criminaliteit & Jongeren
 #### Deelvraag: Zijn er interessante statistieken over (jeugd)criminaliteit?
@@ -87,7 +82,7 @@ Deze daling is echter niet exclusief voor de jeugd, over de gehele bevolking gen
 
 #### Deelvraag: Wat is de 'scope' van criminaliteit in deze research case?
 
-De criminaliteit binnen deze research case staat gelijk aan het bekende 'in aanraking komen met politie/justitie'. Er wordt dus niet direct onderscheid gemaakt tussen een lichte vergrijpen en zware criminaliteit. Dit omdat aangenomen wordt dat de cijfers van beide categorieën met elkaar in verband staan.
+Niet elke bron heeft het over criminaliteit of beschrijft dit in hetzelfde detail. Binnen deze research case kan dan ook eigenlijk alleen gesproken worden over criminaliteits-indicatoren. Dit kan zowel lichte als zware criminaliteit zijn, maar soms ook aanwijzingen als bijvoorbeeld spijbelen/schoolverlaten.
 
 ### Opvoeding en Criminaliteit
 #### Deelvraag: In hoeverre zorgt een vrije of strenge opvoeding voor probleemgedrag en/of criminaliteit?
@@ -99,6 +94,8 @@ Er is veel onderzoek gedaan naar vrije en/of strenge opvoeding en het risico op 
 
 - "Om kinderen op te voeden tot vrije en verantwoordelijke mensen volstaat het niet om kinderen vrij te laten en het ze allemaal zelf uit te laten zoeken. Integendeel: kinderen hebben sterke ouders nodig."
 - "Opvoeding, of het nu om ouders, leraren of maatschappelijk werkers gaat, moet eropuit zijn karakter te vormen, en dat lukt het beste als de volwassene zelf een voorbeeld is, een pedagogische persoonlijkheid waar de jongere zich aan kan spiegelen, of zich tegen af kan zetten."
+
+TODO: 1-2 extra tegen vrij
 
 #### [Leidt streng opvoeden tot voorbeeldige kinderen?] 
 > Tegen strenge opvoeding
@@ -112,6 +109,9 @@ TODO: Voorzichtige conslusie deelvraag
 ## Samenvatting
 In de afgelopen 10 jaar is de criminaliteit flink gedaald. We zijn echter al veel langer steeds vrijer aan het opvoeden, dus deze daling is hier waarschijnlijk niet of nauwelijks aan gerelateerd.  
 De bronnen en citaten aangehaald in **Opvoeding en Criminaliteit** vormen de basis voor deze conclusie.
+
+## Opmerkingen
+De research case is breed opgezet, er zijn veel andere factoren die van invloed kunnen zijn op een criminele toekomst. Bijvoorbeeld inkomen, woonplaats/land, geloof, ethniciteit, gezinssamenstelling, (toekomstige) opleidingsniveaus. Vele onderzoeken naar deze factoren bekijken de opvoeding niet of nauwelijks of zetten dit vervolgens niet af tegen een indicator voor criminaliteit. Betreffende opvoeding is er vooral gekeken naar vrije keuzes, en minder naar empathie vanuit de ouders.
 
 
 
